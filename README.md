@@ -114,8 +114,8 @@ Visualização de Dados
 Indicadores de Desempenho (KPIs)
 Tomada de Decisão Baseada em Dados
 Identificação de Padrões e Tendências
+
+
 👩‍💻 Autora
-
 Elayza
-
 Projeto desenvolvido com foco em aprendizado prático de Análise de Dados e Business Intelligence, buscando transformar dados operacionais em informações estratégicas para negócios.
