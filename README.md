@@ -19,10 +19,14 @@ Melhorar a qualidade do atendimento ao cliente.
 O dashboard apresenta os seguintes indicadores:
 
 Total de Reclamações
+<img width="730" height="575" alt="image" src="https://github.com/user-attachments/assets/9718b664-f29e-4e39-a133-e28899072ebd" />
 
 Quantidade total de registros analisados.
 
+<img width="950" height="487" alt="image" src="https://github.com/user-attachments/assets/9555c114-d79c-4030-9045-48ccb757b91e" />
+
 Taxa de Resolução
+<img width="1110" height="490" alt="image" src="https://github.com/user-attachments/assets/5ef22af4-afad-49fe-aeb6-6be24a9bdb10" />
 
 Percentual de reclamações solucionadas em relação ao total registrado.
 
